@@ -1,4 +1,4 @@
-Felix Bank Management System 
+Felix Bank Management System is a console-based banking application written in C++ that lets tellers register customers and manage accounts, while customers can check balances, deposit, withdraw, and more.
 
 ----How to compile and run----
 1.Open terminal within the the project 
